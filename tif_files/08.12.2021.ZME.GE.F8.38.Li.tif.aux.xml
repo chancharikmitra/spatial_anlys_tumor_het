@@ -1,0 +1,36 @@
+<PAMDataset>
+  <Subdataset name="GTIFF_DIR:1:/Users/cmitra/Downloads/tif_files/08.12.2021.ZME.GE.F8.38.Li.tif">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+          <MDI key="STATISTICS_MAXIMUM">255</MDI>
+          <MDI key="STATISTICS_MEAN">162.04771239542</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">102.01901457658</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+        </Metadata>
+      </PAMRasterBand>
+      <PAMRasterBand band="2">
+        <Metadata>
+          <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+          <MDI key="STATISTICS_MAXIMUM">255</MDI>
+          <MDI key="STATISTICS_MEAN">144.17189414359</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">109.41048909281</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+        </Metadata>
+      </PAMRasterBand>
+      <PAMRasterBand band="3">
+        <Metadata>
+          <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+          <MDI key="STATISTICS_MAXIMUM">255</MDI>
+          <MDI key="STATISTICS_MEAN">211.03212622957</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">67.258924315401</MDI>
+          <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
