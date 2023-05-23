@@ -10,7 +10,7 @@ You can access the entirety of the data from the following [link](https://drive.
 
 1. Gene Expression Data
   - The main gene expression data for each sample will be in the form of a .csv
-  - Naming convention: sampleName_reference_*normalizationMethod??*_mat.csv
+  - Naming convention: sampleName_reference_mat.csv
   - E.g.: F8_37_human_mat.csv
 2. Sample Projection Data
 3. Seurat Objects
