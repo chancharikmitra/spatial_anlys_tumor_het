@@ -1,6 +1,7 @@
 #Data Folders:
-F8_37_outs/
-new_outs/
+Archived/
+Data/
+tif_files/
 
 #All Loupe Visualization Files:
 *.cloupe
