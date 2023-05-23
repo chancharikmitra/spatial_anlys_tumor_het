@@ -14,3 +14,7 @@ You can access the entirety of the data from the following [link](https://drive.
   - E.g.: F8_37_human_mat.csv
 2. Sample Projection Data
 3. Seurat Objects
+
+## Using new SpaceRanger Output Data:
+
+## An Aside on Normalization:
