@@ -6,7 +6,7 @@
 
 ## Accessing Data:
 
-You can access the entirety of the data from the following [link](https://drive.google.com/drive/folders/1jUthHBPzj2H5JSDWustMxwFJyBpZykMu?usp=sharing). The data being used in the analysis can be broken down into a few parts:
+You can access the entirety of the **human-reference** data (still working on the others) from the following [link](https://drive.google.com/drive/folders/1jUthHBPzj2H5JSDWustMxwFJyBpZykMu?usp=sharing). The data being used in the analysis can be broken down into a few parts:
 
 1. Gene Expression Data
   - The main gene expression data for each sample will be in the form of a .csv
